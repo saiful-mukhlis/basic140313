@@ -1,0 +1,2 @@
+-basic dari mlm
+-go to db entity
